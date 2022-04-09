@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Abhay Kumar Rai</h1>
 <h3 align="center">A Boy trying to figure-Out-Stuff!</h3>
 
-- 👨‍💻 You can also check my portfolio at [https://Abhaykumarrai.github.io/](https://Abhaykumarrai.github.io/)
+- 👨‍💻 You can also check my portfolio at
+-  [https://Abhaykumarrai.github.io/](https://Abhaykumarrai.github.io/)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
-- 📫 How to reach me **abhayrai775@gmail.com**
+- 📫 How to reach me abhayrai775@gmail.com
 
 - ⚡ Fun fact **I think I am funny XD**
 
