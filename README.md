@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 I am a MERN Stack Developer<br>🚀 Building the web, one pixel at a time<br>🌐 Crafting responsive web applications from scratch<br>✨ Passionate about clean code & user experience<br>💡 Sharing my coding journey, tips, & projects<br>👉 Follow for more dev hacks & tech awesomeness!</p>
+<p align="left">👨‍💻 I am a MERN Stack Developer<br>🌐 Crafting responsive web applications from scratch<br>✨ Passionate about clean code & user experience<br>💡 Sharing my coding journey, tips, & projects<br>👉 Follow for more dev hacks & tech awesomeness!</p>
 
 ###
 
