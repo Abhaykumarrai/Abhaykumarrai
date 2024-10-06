@@ -52,7 +52,7 @@
 
 ###
 
-<h2 align="left">🤝 Let’s connect & create something amazing!</h2>
+<h2 align="left" style="text-color:#2196f">🤝 Let’s connect & create something amazing!</h2>
 
 ###
 
